@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactclient/static/css/main.a28fb718.chunk.css",
+    "main.js": "/reactclient/static/js/main.abba6fb6.chunk.js",
+    "main.js.map": "/reactclient/static/js/main.abba6fb6.chunk.js.map",
+    "runtime-main.js": "/reactclient/static/js/runtime-main.0f9b5997.js",
+    "runtime-main.js.map": "/reactclient/static/js/runtime-main.0f9b5997.js.map",
+    "static/js/2.198959df.chunk.js": "/reactclient/static/js/2.198959df.chunk.js",
+    "static/js/2.198959df.chunk.js.map": "/reactclient/static/js/2.198959df.chunk.js.map",
+    "index.html": "/reactclient/index.html",
+    "static/css/main.a28fb718.chunk.css.map": "/reactclient/static/css/main.a28fb718.chunk.css.map",
+    "static/js/2.198959df.chunk.js.LICENSE.txt": "/reactclient/static/js/2.198959df.chunk.js.LICENSE.txt",
+    "static/media/card_payment.bb4cf9f2.svg": "/reactclient/static/media/card_payment.bb4cf9f2.svg",
+    "static/media/personal_finance.0bd0cf47.svg": "/reactclient/static/media/personal_finance.0bd0cf47.svg",
+    "static/media/svg1.5f11287c.svg": "/reactclient/static/media/svg1.5f11287c.svg",
+    "static/media/svg2.198c8835.svg": "/reactclient/static/media/svg2.198c8835.svg",
+    "static/media/undraw_revenue_3osh.79960a98.svg": "/reactclient/static/media/undraw_revenue_3osh.79960a98.svg",
+    "static/media/video_1.7d1ea6a9.mp4": "/reactclient/static/media/video_1.7d1ea6a9.mp4",
+    "static/media/working.b178ad74.svg": "/reactclient/static/media/working.b178ad74.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f9b5997.js",
+    "static/js/2.198959df.chunk.js",
+    "static/css/main.a28fb718.chunk.css",
+    "static/js/main.abba6fb6.chunk.js"
+  ]
+}
